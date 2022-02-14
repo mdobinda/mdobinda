@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hey there 👋
 
-- 🔭 I’m currently working on building a terminal-like website with functional controls 
-- 🌱 I’m currently learning about watercolors
+- 🔭 Currently learning how to make empanadas from scratch and playing around with javascript that makes stuff like you're in a terminal. 
+- 🌱 Avid crepe folder 
 
 
 ,*'^`*.,*'^`*.,*'^`*.,*'^`*.,*'^`*.,*'^`
@@ -9,3 +9,6 @@
 *.,*'^`*.,*'^`*.,*'^`*.,*'^`*.,*'^`*.,*'^`*.,*'^         ,---/V\
 `*.,*'^`*.,*'^`*.,*'^`*.,*'^`*.,*'^`*.,*'^`*.,*'^`*.    ~|__(o.o)
 ^`*.,*'^`*.,*'^`*.,*'^`*.,*'^`*.,*'^`*.,*'^`*.,*'^`*.,*'  UU  UU
+
+```` 
+
