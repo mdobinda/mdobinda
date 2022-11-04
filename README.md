@@ -1,7 +1,8 @@
 <!-- ### Hey there 👋 -->
 
-- 🔭 Currently learning how to make empanadas from scratch and playing around with javascript that makes stuff look like you're in terminal. 
+- 🔭 Currently building a modular hybrid analog/digital synthesizer from scratch! Going to be implementing a digital visualizer once a MIDI port is installed :) 
 - 🌱 Avid crepe folder 
+- 🌱 Java Enthusiast 
 
 ````
 
