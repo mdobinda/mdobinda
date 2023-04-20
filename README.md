@@ -2,7 +2,7 @@
 
 - Currently ~~building~~ completed a modular hybrid analog/digital synthesizer from scratch! I'll link the product shortly after our showcase on 4/25 :) 
 Check out our 
-[Demo](https://www.google.com/) here! 
+[Demo](https://www.youtube.com/watch?v=NxG23CtfRKE&ab_channel=AnnaWegener) here! 
 
 
 
