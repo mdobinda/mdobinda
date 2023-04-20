@@ -9,7 +9,7 @@ Check out our Demo
 
 - 🌱 Avid crepe folder 
 - 🌱 Java Enthusiast 
-- 🌱 If I could make playlists for a living I would, follow me on [spotify] (https://open.spotify.com/user/1214730160?si=655fad8ecd734161)!
+- 🌱 If I could make playlists for a living I would, follow me on [spotify](https://open.spotify.com/user/1214730160?si=655fad8ecd734161)!
 
 `````
         ,----,
