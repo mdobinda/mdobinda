@@ -5,7 +5,7 @@ Check out our Demo
 [here](https://www.youtube.com/watch?v=NxG23CtfRKE&ab_channel=AnnaWegener)! Check out our conferenece paper
 [here](https://drive.google.com/file/d/12blnKTRT9wsby-cj9Sf5tjnA2yxEDMoq/view?usp=sharing)!
 
-- Currently working on a 3D platformer indie puzzle game! Finalizing the levels now - check out our repository below, I'll attach a demo video + an executable also after 4/25! 
+- Currently working on a 3D platformer indie puzzle game with my friends! Finalizing the levels now - check out our repository below, I'll attach a demo video + an executable also after 4/25! 
 
 - 🌱 Avid crepe folder 
 - 🌱 Java Enthusiast 
